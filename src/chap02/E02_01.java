@@ -1,4 +1,4 @@
-package chap2;
+package chap02;
 
 public class E02_01 {
     public static int sum(int n, int m) {

@@ -1,4 +1,4 @@
-package chap2;
+package chap02;
 
 public class ForeachEx {
     enum Week { 월, 화, 수, 목, 금, 토, 일 }
